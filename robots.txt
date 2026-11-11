@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /search
+Disallow: /keystatic
+Disallow: /api/
+
+Sitemap: https://jialeyang666.github.io/sitemap.xml
